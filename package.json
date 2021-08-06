@@ -1,0 +1,26 @@
+{
+  "name": "img-uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lidiya-prog/img-uploader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lidiya-prog/img-uploader/issues"
+  },
+  "homepage": "https://github.com/Lidiya-prog/img-uploader#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "firebase": "^8.8.1",
+    "firebase-app": "0.0.1"
+  }
+}
